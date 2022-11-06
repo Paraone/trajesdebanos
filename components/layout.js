@@ -13,7 +13,7 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/logo.jpg" />
+        <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
           content="Trajes De Baños veniendo pronto!"
