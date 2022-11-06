@@ -7,7 +7,7 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = 'TrajesDeBaños.com'
-export const siteTitle = 'Next.js Sample Website'
+export const siteTitle = 'Compra Trajes de Baños'
 
 export default function Layout({ children, home }) {
   return (
